@@ -18,7 +18,7 @@ The plugin does not require permissions at the moment. However, in the future, w
 
 ## Contributions
 
-Contributions are welcome! If you have suggestions or encounter issues, please open an issue on the [GitHub issues page]((https://github.com/KernelSy1212/KernelHeal/issues)).
+Contributions are welcome! If you have suggestions or encounter issues, please open an issue on the [GitHub issues page](https://github.com/KernelSy1212/KernelHeal/issues)).
 
 ## License
 
